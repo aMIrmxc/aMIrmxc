@@ -1,4 +1,5 @@
-![profile](https://github.com/aMIrmxc/aMIrmxc/blob/main/amirmxc.png?raw=true)
+
+![profile](https://github.com/aMIrmxc/aMIrmxc/blob/main/amirmxc.gif?raw=true)
 
 <!--
 **aMIrmxc/aMIrmxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +14,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![profile](https://github.com/aMIrmxc/aMIrmxc/blob/main/amirmxc.png?raw=true)
 -->
