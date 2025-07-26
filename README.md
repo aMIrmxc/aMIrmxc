@@ -1,4 +1,4 @@
-
+![profile](https://github.com/aMIrmxc/aMIrmxc/blob/main/amirmxc.png?raw=true)
 
 <!--
 **aMIrmxc/aMIrmxc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
